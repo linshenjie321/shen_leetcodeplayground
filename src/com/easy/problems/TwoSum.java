@@ -1,4 +1,4 @@
-package com.medium.problems;
+package com.easy.problems;
 
 import java.util.HashMap;
 import java.util.Map;
