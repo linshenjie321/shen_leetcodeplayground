@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * 
- * @author Cometstrike
+ * @author Shen
  *
  *         Note: I did not come up with this problem, this problem is directly
  *         taken out of https://leetcode.com/problems/two-sum/
