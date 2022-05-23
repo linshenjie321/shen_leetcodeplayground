@@ -4,6 +4,9 @@ package com.shen.easy;
  * 
  * @author Cometstrike
  * 
+ *         Note: I did not come up with this problem, this problem is directly
+ *         taken out of
+ *         https://leetcode.com/problems/palindrome-number/discuss/2064376/Palindrome-Number
  * 
  *         Given an integer x, return true if x is palindrome integer.
  * 
